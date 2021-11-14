@@ -1,0 +1,35 @@
+#: locale=pt
+
+## Tour
+
+### Description
+tour.description = Rua Sábbado D’Angelo, 163 - Itaquera, São Paulo - SP, 08210-790
+
+### Title
+tour.name = Residencial Itaquera Premium - Imagem Aérea 360°
+
+## Media
+
+### Title
+panorama_0B135773_177E_69AC_41AC_F1B19F630084.label = IMG-1269
+video_0B79D328_1C41_63AD_4188_818D0120B1C9.label = Video
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_0A97B32F_1689_E9B4_41A8_BF2B87507790.toolTip = Informações Itaquera Premium Salão
+HotspotPanoramaOverlayArea_0AC826A8_168A_28BB_41AF_C32A4A3664CA.toolTip = Clique e Veja o Book
+HotspotPanoramaOverlayArea_0AD07F8C_168E_3974_41B5_688DF764EFC1.toolTip = Residencial Itaquera Premium (CETEF)
+
+## Action
+
+### PDF
+PopupPDFBehaviour_08877709_1686_697C_41A9_6822449CA9DC.url = files/ITAQUERA PREMIUM SALÃO_pt.pdf
+PopupPDFBehaviour_0A8F2564_168A_29B4_419C_D4C25E6F67A9.url = files/BOOK - ITAQUERA PREMIUM (7)_pt.pdf
+PopupPDFBehaviour_0A9EE725_1686_29B5_41B6_35E0DD44B95E.url = files/Residencial Itaquera Premium(CETEF)_pt.pdf
+
+### URL
+LinkBehaviour_09390CAA_1686_38BF_41A8_9178345F6ECA.source = https://api.whatsapp.com/send?phone=551138074483
+LinkBehaviour_09397CAA_1686_38BF_41B2_E42C7CD8C76C.source = https://www.instagram.com/trembalaempreendimentos/
+LinkBehaviour_09870BAF_168E_78B4_41AC_DC6E5758CD76.source = https://api.whatsapp.com/send?phone=551138074483
+LinkBehaviour_09980071_168A_67AD_4164_9B82814180DC.source = https://www.instagram.com/trembalaempreendimentos/
